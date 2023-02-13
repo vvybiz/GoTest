@@ -1,5 +1,7 @@
 package arr
 
-func main() {
+import "fmt"
 
+func main() {
+	fmt.Println("Hello world!")
 }
